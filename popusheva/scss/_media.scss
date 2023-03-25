@@ -1,0 +1,44 @@
+@media (max-width: 1024px) {
+   .main-rez__left h2 {
+      font-size: 76px;
+   }
+   .main-rez__left-bottom span {
+      font-size: 13px;
+   }
+   .main-manifest__wrapper p,
+   .main-manifest__wrapper h4 {
+      font-size: 21px;
+   }
+   .main-manifest__wrapper h3 {
+      font-size: 21px;
+   }
+   .info-slider__left p {
+      font-size: 22px;
+   }
+}
+@media (max-width: 768px) {
+   .menu {
+      display: none;
+   }
+   .main-face__line {
+      display: none;
+   }
+   .tel-hibe{
+      display: block;
+   }
+   .header__info-tel {
+      display: none;
+   }
+   .header__info-choice {
+      display: none;
+   }
+   .header__info-choice-img {
+      display: none;
+   }
+   .header__logo {
+      margin-right: 0;
+   }
+   .header__info-box {
+      gap: 0px;
+   }
+}
